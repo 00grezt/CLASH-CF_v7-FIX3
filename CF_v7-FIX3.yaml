@@ -125,7 +125,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true
       }
   - { name: SG.GS, 
@@ -134,7 +134,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true
       }
 # OTHER TROJAN      
@@ -144,7 +144,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true
       }
   - { name: ATHA, 
@@ -153,7 +153,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true
       }
   - { name: SGHE, 
@@ -162,7 +162,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true
       }
 # TJ 3
@@ -172,7 +172,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: api2-t3.musical.ly, 
+      sni: bug.com, 
       skip-cert-verify: true}
   - { name: AWAN-UNINET, 
       server: id-awan.bypass.id, 
@@ -180,7 +180,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true}
   - { name: KREATIF-SANGGORO, 
       server: id-kreatif.bypass.id, 
@@ -188,7 +188,7 @@ proxies:
       udp: true, 
       type: trojan, 
       password: , 
-      sni: m.starmakerstudios.com, 
+      sni: bug.com, 
       skip-cert-verify: true}
 #========== PROXY-GROUP ============================================================================================================
 proxy-groups:
