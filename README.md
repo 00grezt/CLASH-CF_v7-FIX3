@@ -39,19 +39,23 @@
 
 
 # RESOURCE/RAW 
+
 CFG From SSHKIT Generator, Group Premi Howdy.id, github, web forum diskusi dan Youtube. 
 Ini merupakan campuran Config dari beberapa sumber yang berbeda.
 # Created & Edited By WATCHER ~B.
 t:@WatcherB 
 
+Config ini masih dala proses pembuatan dan masih belum sempurna, jadi masih akan tetap di perbaharui ke versi yang lebih baik 
 
 # Fiture
+
 - MENU "GLOBAL-A" = Sebagai global connection kepada apps & domain yang tidak memiliki rule.
 - MENU "MANUAL" = Memilih proxy secara manual yang bisa digunakan untuk global connection pada proxy group "GLOBAL-A"
 - MENU "BEST-PING" = Proxy group yang berfungsi untuk memilih ping terbaik dari proxy yang ada.
 - MENU "LB!, LB2, LB3" = Proxy group yang menggunakan metode load-balance.
 
 # Rules
+
 - GAME
 - WEB STREAMING
 - SOSMED
@@ -69,3 +73,9 @@ t:@WatcherB
            Menolak sebuah koneksi pada domain tersebut/ blacklist.
 - GLOBAL-A,BEST-PING,LB1,LB2,LB3 : 
            Nama-nama group proxy yang koneksinya bisa digunakan sebagai rule untuk ip/domain tertentu.
+# PREVIEW
+
+<p align="center">
+  <img src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW.png" width="auto" title="hover text">
+  <h2> Config Preview </h2>
+</p>
