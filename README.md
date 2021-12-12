@@ -40,7 +40,7 @@
 
 # CFG RESOURCE/RAW 
 
-Config ini dibuat dari berbagai beberapa config yang berbeda / sumber yang berbeda lalu kemudian digabungkan menjadi sebuah keastuan config, sumber yang saya gunakan adalah sebagai berikut :
+Config ini dibuat dari berbagai config yang berbeda / beberapa sumber yang berbeda kemudian digabungkan menjadi sebuah kesatuan config, sumber-sumber yang saya gunakan adalah sebagai berikut :
 - CFG From SSHKIT Generator/CONVERTER.
 - Group Premi Howdy.id. 
 - Github.
