@@ -42,10 +42,13 @@
 
 CFG From SSHKIT Generator, Group Premi Howdy.id, github, web forum diskusi dan Youtube. 
 Ini merupakan campuran Config dari beberapa sumber yang berbeda.
+
+
 # Created & Edited By WATCHER ~B.
+
 t:@WatcherB 
 
-Config ini masih dala proses pembuatan dan masih belum sempurna, jadi masih akan tetap di perbaharui ke versi yang lebih baik 
+Config ini masih dalam proses pembuatan dan masih belum sempurna, jadi masih akan tetap di perbaharui ke versi yang lebih baik.
 
 # Fiture
 
