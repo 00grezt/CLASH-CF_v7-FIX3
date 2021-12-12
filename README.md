@@ -38,10 +38,14 @@
                                                           ```                                                                                         
 
 
-# RESOURCE/RAW 
+# CFG RESOURCE/RAW 
 
-CFG From SSHKIT Generator, Group Premi Howdy.id, github, web forum diskusi dan Youtube. 
-Ini merupakan campuran Config dari beberapa sumber yang berbeda.
+Config ini dibuat dari berbagai beberapa config yang berbeda / sumber yang berbeda lalu kemudian digabungkan menjadi sebuah keastuan config, sumber yang saya gunakan adalah sebagai berikut :
+- CFG From SSHKIT Generator/CONVERTER.
+- Group Premi Howdy.id. 
+- Github.
+- Web forum diskusi.
+- Dan Youtube.
 
 
 # Created & Edited By WATCHER ~B.
