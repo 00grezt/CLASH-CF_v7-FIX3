@@ -1,4 +1,5 @@
-                                                                                                                         
+<p align="center">
+
                                       .*#%%%#*.                                                                      
                                  .%@@@@@@@@@@@@@@@@@@@@@@@&.                                                             
                            (@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%                                                         
@@ -36,7 +37,7 @@
             `shyho   shyhs   .yh/.....yhs`   -hh:    `ohho:-:/o `yho    :hh.  shs-----  +hy`  :hh/                   +hy:--+hh/                         
              -ooo.   -ooo.   :o+      -oo.   .oo-     `-+ossso:  +o:    .oo`  /oooooo+  :o+    /oo`                  :ooooo+/.                          
                                                           ```                                                                                         
-
+</p>
 
 # CFG RESOURCE/RAW 
 
