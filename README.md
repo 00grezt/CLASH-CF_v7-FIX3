@@ -76,6 +76,7 @@ Config ini masih dala proses pembuatan dan masih belum sempurna, jadi masih akan
 # PREVIEW
 
 <p align="center">
-  <img src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW.png" width="auto" title="hover text">
-  <h2> Config Preview </h2>
+  <img src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW.png" width="auto" title="CFG PREVIEW IMG 1">
+  <img src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW2.png" width="auto" title="CFG PREVIEW IMG 2">
+  <h4 align="center"> Config Preview </h4>
 </p>
