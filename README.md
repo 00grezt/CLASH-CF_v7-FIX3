@@ -62,13 +62,17 @@ Saya masih belajar, saya hanya orang biasa dan bukan sarjana. ini semua hanyalah
 - MENU "BEST-PING" = Proxy group yang berfungsi untuk memilih ping terbaik dari proxy yang ada.
 - MENU "LB!, LB2, LB3" = Proxy group yang menggunakan metode load-balance.
 
-<h2>Untuk melakukan speed test untuk mengecek speed pada setiap proxy yang ada, kalian bisa lakukan dengan cara : </h2>
+# SPEED TEST
+Untuk melakukan pengecekan speed test pada setiap proxy yang ada, kalian bisa lakukan dengan cara :
+
 - Buka proxy group "GLOBAL-A".
-- Pilih "MANUAL", untuk mengecek speed ke setiap proxy yang ada.
+- Pilih "MANUAL", untuk mengecek speed ke setiap proxy yang ada. (bisa juga dengan memilih proxy group yang lain, EX: LB1/BEST-PING ).
 - Buka Proxy group "MANUAL" > Piih proxy mana yang akan test speednya. Ex: SG.GS.
 - Buka "https://www.speedtest.net/" untuk melihat hasil speed testnya.
-  <img align="center" src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW-MANUAL.png" width="auto" title="CFG PREVIEW SPEED TEST IMG">
+<p align="center">
+  <img src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW-MANUAL.png" width="auto" title="CFG PREVIEW SPEED TEST IMG">
   <img align="center" src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW-MANUAL-ST.png" width="auto" title="CFG PREVIEW SPEED TEST IMG 2">
+</p>
 
 # Rules
 
