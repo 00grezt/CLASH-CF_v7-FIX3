@@ -53,6 +53,7 @@ Config ini dibuat dari berbagai config yang berbeda / beberapa sumber yang berbe
 t:@WatcherB 
 
 Config ini masih dalam proses pembuatan dan masih belum sempurna, jadi masih akan tetap di perbaharui ke versi yang lebih baik.
+Saya masih belajar, saya hanya orang biasa dan bukan sarjana. ini semua hanyalah hobi sampingan saja dan saya yakin config ini tidaklah sempurna, jika ada masalah/bug/error tolong berikan laporan dan sarannya.
 
 # Fiture
 
@@ -60,6 +61,14 @@ Config ini masih dalam proses pembuatan dan masih belum sempurna, jadi masih aka
 - MENU "MANUAL" = Memilih proxy secara manual yang bisa digunakan untuk global connection pada proxy group "GLOBAL-A"
 - MENU "BEST-PING" = Proxy group yang berfungsi untuk memilih ping terbaik dari proxy yang ada.
 - MENU "LB!, LB2, LB3" = Proxy group yang menggunakan metode load-balance.
+
+<h2>Untuk melakukan speed test untuk mengecek speed pada setiap proxy yang ada, kalian bisa lakukan dengan cara : </h2>
+- Buka proxy group "GLOBAL-A".
+- Pilih "MANUAL", untuk mengecek speed ke setiap proxy yang ada.
+- Buka Proxy group "MANUAL" > Piih proxy mana yang akan test speednya. Ex: SG.GS.
+- Buka "https://www.speedtest.net/" untuk melihat hasil speed testnya.
+  <img align="center" src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW-MANUAL.png" width="auto" title="CFG PREVIEW SPEED TEST IMG">
+  <img align="center" src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW-MANUAL-ST.png" width="auto" title="CFG PREVIEW SPEED TEST IMG 2">
 
 # Rules
 
@@ -78,8 +87,9 @@ Config ini masih dalam proses pembuatan dan masih belum sempurna, jadi masih aka
            lalu mereka akan menggunakan koneksi proxy yang dipilih berdasarkan metode pada proxy group GLOBAL-A.
 - REJECT : 
            Menolak sebuah koneksi pada domain tersebut/ blacklist.
-- GLOBAL-A,BEST-PING,LB1,LB2,LB3 : 
+- GLOBAL-A,MANUAL,BEST-PING,LB1,LB2,LB3 : 
            Nama-nama group proxy yang koneksinya bisa digunakan sebagai rule untuk ip/domain tertentu.
+                      
 # PREVIEW
 
 <p align="center">
