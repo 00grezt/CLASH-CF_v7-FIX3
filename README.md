@@ -67,7 +67,7 @@ Untuk melakukan pengecekan speed test pada setiap proxy yang ada, kalian bisa la
 
 - Buka proxy group "GLOBAL-A".
 - Pilih "MANUAL", untuk mengecek speed ke setiap proxy yang ada. (bisa juga dengan memilih proxy group yang lain, EX: LB1/BEST-PING ).
-- Buka Proxy group "MANUAL" > Piih proxy mana yang akan test speednya. Ex: SG.GS.
+- Buka Proxy group "MANUAL" > Piih proxy mana yang akan test speednya. Ex: UNINET.
 - Buka "https://www.speedtest.net/" untuk melihat hasil speed testnya.
 <p align="center">
   <img src="https://github.com/00grezt/CLASH-CF_v7-FIX3/blob/main/PREVIEW-MANUAL.png" width="auto" title="CFG PREVIEW SPEED TEST IMG">
