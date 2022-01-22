@@ -38,6 +38,9 @@
              -ooo.   -ooo.   :o+      -oo.   .oo-     `-+ossso:  +o:    .oo`  /oooooo+  :o+    /oo`                  :ooooo+/. 
                                                           ```                                                                  
 
+# LATEST VERSION 
+<a href="https://github.com/00grezt/CLASH_CF-PROJECT"> DISINI</a>
+
 # CFG RESOURCE/RAW 
 
 Config ini dibuat dari berbagai config yang berbeda / beberapa sumber yang berbeda kemudian digabungkan menjadi sebuah kesatuan config, sumber-sumber yang saya gunakan adalah sebagai berikut :
